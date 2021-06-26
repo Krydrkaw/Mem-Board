@@ -1,0 +1,16 @@
+.margin-bot{
+    margin-bottom: 20px;
+}
+.add-container{
+    margin-left: auto;
+    margin-right: auto;
+}
+.login-form-button{
+    width: 300px;
+}
+
+@media (max-width: 576px) {
+    .login-container{
+        margin-top: 100px;
+    }
+}
